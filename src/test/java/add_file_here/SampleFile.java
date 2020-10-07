@@ -11,6 +11,8 @@ public class SampleFile {
 
         //change the history
 
+        //class should be dismissed
+
     }
 
 }
