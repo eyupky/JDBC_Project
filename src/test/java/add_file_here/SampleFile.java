@@ -7,6 +7,8 @@ public class SampleFile {
         System.out.println("Awesome stuff here");
         //CHANGES have been made---BE AWARE
 
+        // commiting again
+
     }
 
 }
